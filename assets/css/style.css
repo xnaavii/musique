@@ -1,3 +1,7 @@
+/* Google fonts import */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Raleway:wght@200&display=swap');
+
 /* Asterisk style selector */
 
 * {
@@ -12,6 +16,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* Header */
