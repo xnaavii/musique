@@ -23,13 +23,16 @@ body {
 
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 1rem;
     position: fixed;
     width: 100%;
     z-index: 99;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
-header a{
+header a {
     text-decoration: none;
     color: inherit;
 }
@@ -47,12 +50,37 @@ h1 {
     font-size: 110%;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
 .active {
-    border-bottom:1px solid #333333;
+    border-bottom: 1px solid #333333;
+}
+
+/* Navigation bar styling with dropdown */
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+    top: 100%;
+}
+/* Nav toggle */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 /* Section */
 
@@ -60,6 +88,7 @@ section {
     background-color: yellow;
     /* Push footer down */
     flex: 1 0 auto;
+    margin-top: 71.5px;
 }
 
 /* Footer */
