@@ -69,6 +69,7 @@ nav {
     display: none;
     top: 100%;
 }
+
 /* Nav toggle */
 
 #nav-toggle:checked~nav {
@@ -82,6 +83,7 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
 /* Section */
 
 section {
@@ -107,12 +109,12 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
-    
+
     #menu {
         display: flex;
     }
 
-    #menu > li{
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -131,5 +133,14 @@ footer {
     section {
         /* Push section down so that it's not under header */
         margin-top: 107px;
+    }
+}
+
+/* Media query for smaller laptops (992px and higher) */
+@media screen and (min-width: 992px) {
+
+    /* Nav links */
+    #menu a:hover {
+        border-bottom: 1px solid #333333;
     }
 }
