@@ -1,0 +1,35 @@
+/* Asterisk style selector */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+
+header {
+    background-color: purple;
+}
+
+/* Section */
+
+section {
+    background-color: yellow;
+    /* Push footer down */
+    flex: 1 0 auto;
+}
+
+/* Footer */
+
+footer {
+    background-color: green;
+}
