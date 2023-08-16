@@ -25,6 +25,10 @@ header {
     background-color: purple;
 }
 
+h1 {
+    font-family: 'Libre Baskerville', sans-serif;
+}
+
 /* Section */
 
 section {
