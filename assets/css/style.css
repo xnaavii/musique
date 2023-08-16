@@ -22,7 +22,11 @@ body {
 /* Header */
 
 header {
-    background-color: purple;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
 }
 
 h1 {
