@@ -119,4 +119,17 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin-left: 0.5rem;
+    }
+
+    /* Section content */
+
+    section {
+        /* Push section down so that it's not under header */
+        margin-top: 107px;
+    }
 }
