@@ -95,8 +95,18 @@ section {
 
 /* Footer */
 
-footer {
-    background-color: green;
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 180%;
+    padding: 5%;
+    color: #333333;
 }
 
 /* Media query for tablets and larger devices (768px and up) */
