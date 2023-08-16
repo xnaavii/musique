@@ -29,8 +29,16 @@ header {
     z-index: 99;
 }
 
+header a{
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Libre Baskerville', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #333333;
 }
 
 /* Section */
