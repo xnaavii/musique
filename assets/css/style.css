@@ -41,6 +41,19 @@ h1 {
     color: #333333;
 }
 
+#menu {
+    list-style-type: none;
+    letter-spacing: 4px;
+    font-size: 110%;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom:1px solid #333333;
+}
 /* Section */
 
 section {
