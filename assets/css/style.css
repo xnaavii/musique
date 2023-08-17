@@ -87,16 +87,16 @@ nav {
 /* Section */
 
 section {
-    /* Background-image of the home page section */
+    /* Background-image of the home page section 
     background-image: url(/assets/images/guitars.jpg);
     background-size: cover;
-    overflow: hidden;
+    overflow: hidden; */
     /* Push footer down */
     flex: 1 0 auto;
     margin-top: 71.5px;
 }
 
-/* home image with artist text next to it */
+/* Youtube embedded link on the home page */
 .container {
     display: flex;
     flex-direction: row;
@@ -105,13 +105,12 @@ section {
 
 }
 
+/* Home page image under the listen now icons */
 .home-image {
     width: 60%;
     color: #333333;
     opacity: 0.4;
 }
-
-/* home image with listen now text */
 
 .container2 {
     display: flex;
@@ -119,8 +118,6 @@ section {
     justify-content: space-evenly;
     flex-direction: column;
 }
-
-
 
 /* Streaming icons */
 #streaming-platforms {
