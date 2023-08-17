@@ -96,6 +96,21 @@ section {
     margin-top: 71.5px;
 }
 
+/* Streaming icons */
+#streaming-platforms {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#streaming-platforms i {
+    font-size: 150%;
+    padding: 5%;
+    color: #333333;
+}
+
 /* Footer */
 
 #social-media {
