@@ -96,17 +96,20 @@ section {
     margin-top: 71.5px;
 }
 
+/* first home image with artist text next to it */
 .container {
     display: flex;
-    justify-content: flex-end;
+    flex-direction: row-reverse;
+    justify-content: space-between;
 
 }
 
-.img1 {
+.home-image1 {
     width: 60%;
     color: #333333;
     opacity: 0.4;
 }
+
 
 /* Streaming icons */
 #streaming-platforms {
