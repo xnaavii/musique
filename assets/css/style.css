@@ -101,6 +101,7 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
 }
 
@@ -112,7 +113,7 @@ section {
 
 /* home image with listen now text */
 
-.container2{
+.container2 {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
