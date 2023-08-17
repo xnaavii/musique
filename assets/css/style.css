@@ -22,7 +22,7 @@ body {
 /* Header */
 
 header {
-    background-color: #ffffff;
+    background-color: #A9A29C;
     padding: 1rem;
     position: fixed;
     width: 100%;
@@ -62,7 +62,7 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #A9A29C;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -87,6 +87,7 @@ nav {
 /* Section */
 
 section {
+    background-color: #D5CCC7;
     /* Push footer down */
     flex: 1 0 auto;
     margin-top: 71.5px;
@@ -138,7 +139,7 @@ button {
     padding: 10px;
     border-radius: 20px;
     color: #333333;
-    background-color: #ffffff;
+    background-color: #D5CCC7;
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -149,7 +150,8 @@ button {
 }
 
 button:hover {
-    background-color: #D5CCC7;
+    background-color: #333333;
+    color: #D5CCC7;
     cursor: pointer;
 }
 
@@ -167,6 +169,7 @@ button:active {
 /* Footer */
 
 #social-media {
+    background-color: #A9A29C;
     text-align: center;
     padding: 20px 0;
     display: flex;
