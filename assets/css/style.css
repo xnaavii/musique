@@ -96,6 +96,18 @@ section {
     margin-top: 71.5px;
 }
 
+.container {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.img1 {
+    width: 60%;
+    color: #333333;
+    opacity: 0.4;
+}
+
 /* Streaming icons */
 #streaming-platforms {
     text-align: center;
