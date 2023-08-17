@@ -41,6 +41,7 @@ h1 {
     font-family: 'Libre Baskerville', sans-serif;
     text-transform: uppercase;
     color: #333333;
+    text-align: center;
 }
 
 #menu {
@@ -199,6 +200,12 @@ button:active {
     letter-spacing: 2px;
 }
 
+/* About us text */
+
+#about-us-text {
+    margin: 5%;
+    text-align: center;
+}
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
