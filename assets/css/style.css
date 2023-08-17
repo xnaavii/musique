@@ -181,36 +181,24 @@ button:active {
 
 /* About us Page */
 
-
-.circle-icon1 {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 1px solid #333333;
-    align-self: flex-start;
-    margin-top: 30px;
-    margin-left: 20px;
+#about-icons {
+    text-align: center;
+    list-style-type: none;
+    margin: 5%;
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 
-.circle-icon2 {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 1px solid #333333;
-    align-self: flex-end;
-    margin-top: 30px;
-    margin-right: 20px;
+#about-icons i {
+    font-size: 120%;
+    color: #333333;
+    margin: 5%;
+    padding: 5%;
+    letter-spacing: 2px;
 }
 
-.circle-icon3 {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 1px solid #333333;
-    align-self: flex-start;
-    margin-top: 30px;
-    margin-left: 20px;
-}
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
