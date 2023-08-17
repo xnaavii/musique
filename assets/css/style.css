@@ -134,9 +134,10 @@ section {
 
 button {
     padding: 10px;
-    border-radius: 12px;
+    border-radius: 20px;
     color: #333333;
     background-color: #ffffff;
+    font-family: 'Raleway', sans-serif;
 }
 
 
