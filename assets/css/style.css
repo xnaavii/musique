@@ -138,8 +138,24 @@ button {
     color: #333333;
     background-color: #ffffff;
     font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
 }
 
+button:hover {
+    background-color: #D5CCC7;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+/* bottom text */
+
+#bottom-text {
+    bottom: 0;
+    position: relative;
+}
 
 /* Footer */
 
