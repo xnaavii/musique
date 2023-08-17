@@ -87,7 +87,10 @@ nav {
 /* Section */
 
 section {
-    background-color: yellow;
+    /* Background-image of the home page section */
+    background-image: url(/assets/images/guitars.jpg);
+    background-size: cover;
+    overflow: hidden;
     /* Push footer down */
     flex: 1 0 auto;
     margin-top: 71.5px;
