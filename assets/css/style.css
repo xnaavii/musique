@@ -86,16 +86,18 @@ nav {
 /* Section */
 
 section {
-    /* Background-image of the home page section 
-    background-image: url(/assets/images/guitars.jpg);
-    background-size: cover;
-    overflow: hidden; */
     /* Push footer down */
     flex: 1 0 auto;
     margin-top: 71.5px;
 }
 
 /* Youtube embedded link on the home page */
+
+.youtube-video {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -107,17 +109,11 @@ section {
 
 /* Home page image under the listen now icons */
 .home-image {
-    width: 60%;
+    width: 80%;
     color: #333333;
     opacity: 0.4;
 }
 
-.container2 {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-direction: column;
-}
 
 /* Streaming icons */
 #streaming-platforms {
@@ -133,6 +129,16 @@ section {
     padding: 5%;
     color: #333333;
 }
+
+/* Become the member button */
+
+button {
+    padding: 10px;
+    border-radius: 12px;
+    color: #333333;
+    background-color: #ffffff;
+}
+
 
 /* Footer */
 
