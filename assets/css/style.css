@@ -110,7 +110,8 @@ section {
 
 }
 
-.container h1, h2 {
+.container h1,
+h2 {
     padding: 20px;
 }
 
@@ -138,7 +139,7 @@ section {
     color: #333333;
 }
 
-#streaming-platforms i:hover{
+#streaming-platforms i:hover {
     color: #A9A29C;
     transform: scale(1.2);
     transition-duration: 0.5s;
@@ -209,9 +210,25 @@ button:hover {
     border: 1px solid black;
     border-radius: 200px;
     padding: 20px;
-    margin: 10px; 
+    margin: 10px;
 }
 
+#about-icons i:hover {
+    background-color: #333333;
+    color: #D5CCC7;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+
+#about-icons a {
+    text-decoration: none;
+    color: #333333;
+}
+
+#about-icons a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
 
 /* About us text */
 
@@ -219,6 +236,7 @@ button:hover {
     margin: 5%;
     text-align: center;
 }
+
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
