@@ -117,7 +117,7 @@ h2 {
 
 /* Home page image under the listen now icons */
 .home-image {
-    width: 80%;
+    width: 100%;
     color: #333333;
     opacity: 0.4;
     margin-top: 10px;
@@ -249,6 +249,7 @@ form {
 }
 
 /* Register field  */
+
 .input-field {
     background-color: transparent;
     margin: 5px;
@@ -256,6 +257,17 @@ form {
     border: 1px solid #333333;
     border-radius: 200px;
     display: block;
+}
+
+.input-field:hover {
+    background-color: #A9A29C;
+    cursor: text;
+}
+
+.input-field:focus {
+    background-color: #A9A29C;
+    outline: 2px solid #28262B;
+
 }
 
 .signup-button {
@@ -273,6 +285,7 @@ form {
     cursor: pointer;
     transition-duration: 0.5s;
 }
+
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
