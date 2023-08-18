@@ -195,7 +195,7 @@ button:hover {
 
 /* About us Page */
 
-/* Icons with text under */
+/* Icons with text and clickable circles for about us page*/
 
 #about-icons {
     text-align: center;
@@ -241,6 +241,14 @@ button:hover {
     text-align: center;
 }
 
+/* Register/Log In Page */
+ 
+.input-field {
+    background-color: transparent;
+    margin: 10px;
+    border: 1px solid #333333;
+    border-radius: 200px;
+ }
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
