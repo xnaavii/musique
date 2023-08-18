@@ -195,6 +195,8 @@ button:hover {
 
 /* About us Page */
 
+/* Icons with text under */
+
 #about-icons {
     text-align: center;
     list-style-type: none;
@@ -212,6 +214,8 @@ button:hover {
     padding: 20px;
     margin: 10px;
 }
+
+/* Styling icons to have hover effect */
 
 #about-icons i:hover {
     background-color: #333333;
