@@ -37,17 +37,16 @@
     <section class="container">
       <h1>Join us</h1>
       <h2>Register</h2>
-      <form action="https://formdump.codeinstitute.net/" method="get" class="input-container">
+      <form action="https://formdump.codeinstitute.net/" autocomplete="on" method="post" class="input-container">
         <label for="fname">First Name:</label>
         <input id="fname" class="input-field" type="text" name="first_name" required>
         <label for="lname">Last Name:</label>
         <input id="lname" class="input-field" type="text" name="last_name" required>
-        <label for="dob">Date of Birth</label>
-        <input id="dob" class="input-field" type="date" name="date_of_birth" required>
         <label for="email">Email Adress:</label>
         <input id="email" class="input-field" type="email" name="email" required>
         <label for="password">Password:</label>
         <input id="password" class="input-field" type="password" name="password" required>
+        <input class="signup-button" type="submit" value="Sign up">
       </form>
       <h3>Already a member?</h3>
       <!-- Image at the bottom of the page -->
