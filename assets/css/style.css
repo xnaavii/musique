@@ -270,7 +270,8 @@ form {
 
 }
 
-.signup-button {
+/* Sign up, sign in button */
+.sign-button {
     background-color: #D5CCC7;
     margin: 5px;
     padding: 5px;
@@ -279,13 +280,24 @@ form {
     cursor: pointer;
 }
 
-.signup-button:hover {
+.sign-button:hover {
     background-color: #333333;
     color: #D5CCC7;
     cursor: pointer;
     transition-duration: 0.5s;
 }
 
+/* Already a member, New here? Links */
+.form-button-under {
+    text-decoration: none;
+    color:#333333;
+    padding: 5px;
+}
+
+.form-button-under:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
