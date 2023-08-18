@@ -103,10 +103,10 @@ section {
 /* flexbox container */
 .container {
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
     align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
 
 }
 
@@ -131,6 +131,14 @@ section {
     font-size: 180%;
     padding: 5%;
     color: #333333;
+}
+
+#streaming-platforms i:hover{
+    color: #A9A29C;
+}
+
+#streaming-platforms i:active{
+    transform: scale(1.2);
 }
 
 /* Become the member button */
@@ -190,17 +198,13 @@ button:active {
     list-style-type: none;
     margin: 5%;
     padding: 5%;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
 }
 
 #about-icons i {
-    font-size: 120%;
+    font-size: 180%;
     color: #333333;
     margin: 5%;
     padding: 5%;
-    letter-spacing: 2px;
 }
 
 /* About us text */
