@@ -110,11 +110,16 @@ section {
 
 }
 
+.container h1, h2 {
+    padding: 20px;
+}
+
 /* Home page image under the listen now icons */
 .home-image {
     width: 80%;
     color: #333333;
     opacity: 0.4;
+    margin-top: 10px;
 }
 
 
@@ -135,10 +140,8 @@ section {
 
 #streaming-platforms i:hover{
     color: #A9A29C;
-}
-
-#streaming-platforms i:active{
     transform: scale(1.2);
+    transition-duration: 0.5s;
 }
 
 /* Become the member button */
@@ -161,13 +164,11 @@ button:hover {
     background-color: #333333;
     color: #D5CCC7;
     cursor: pointer;
+    transition-duration: 0.5s;
 }
 
-button:active {
-    transform: scale(0.98);
-}
 
-/* bottom text */
+/* bottom text xnaavii 2023 */
 
 #bottom-text {
     bottom: 0;
@@ -196,16 +197,21 @@ button:active {
 #about-icons {
     text-align: center;
     list-style-type: none;
-    margin: 5%;
-    padding: 5%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 
 #about-icons i {
     font-size: 180%;
     color: #333333;
-    margin: 5%;
-    padding: 5%;
+    border: 1px solid black;
+    border-radius: 200px;
+    padding: 20px;
+    margin: 10px; 
 }
+
 
 /* About us text */
 
