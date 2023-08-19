@@ -97,7 +97,10 @@ section {
 
 .youtube-video {
     aspect-ratio: 16/9;
-    width: 100%;
+    width: 95%;
+    height: auto;
+    border: 2px solid #A9A29C;
+    border-radius: 5px;
 }
 
 /* flexbox container */
@@ -148,6 +151,7 @@ h2 {
 /* Explore Musique */
 
 .join-button {
+    margin-top: 20px;
     padding: 10px;
     border-radius: 20px;
     color: #333333;
@@ -158,10 +162,6 @@ h2 {
     letter-spacing: 2px;
 }
 
-.join-button {
-    margin-top: 20px;
-}
-
 .join-button:hover {
     background-color: #333333;
     color: #D5CCC7;
@@ -170,7 +170,7 @@ h2 {
 }
 
 
-/* bottom text xnaavii 2023 */
+/* Bottom text xnaavii 2023 */
 
 #bottom-text {
     bottom: 0;
@@ -274,7 +274,7 @@ form {
 /* Sign up, sign in button */
 .sign-button {
     background-color: #D5CCC7;
-    margin: 5px;
+    margin: 10px;
     color: #333333;
     padding: 5px;
     border: 2px solid #333333;
@@ -290,13 +290,13 @@ form {
 }
 
 /* Already a member, New here? Links */
-.form-button-under {
+.form-text-under {
     text-decoration: none;
     color: #333333;
     padding: 5px;
 }
 
-.form-button-under:hover {
+.form-text-under:hover {
     cursor: pointer;
     text-decoration: underline;
 }
@@ -336,7 +336,17 @@ form {
         /* Push section down so that it's not under header */
         margin-top: 107px;
     }
+
+    .youtube-video {
+        /* Youtube Player */
+        width: 80%;
+        height: auto;
+        border: 2px solid #A9A29C;
+        border-radius: 5px;
+    }
 }
+
+
 
 /* Media query for smaller laptops (992px and higher) */
 @media screen and (min-width: 992px) {
@@ -346,5 +356,6 @@ form {
         border-bottom: 1px solid #333333;
     }
 
-    /* Musique with us button */
+    /* Youtube Player */
+
 }
