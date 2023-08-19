@@ -147,7 +147,7 @@ h2 {
 
 /* Become the member button */
 
-button {
+.join-button {
     padding: 10px;
     border-radius: 20px;
     color: #333333;
@@ -161,7 +161,7 @@ button {
     margin-top: 20px;
 }
 
-button:hover {
+.join-button:hover {
     background-color: #333333;
     color: #D5CCC7;
     cursor: pointer;
@@ -290,7 +290,7 @@ form {
 /* Already a member, New here? Links */
 .form-button-under {
     text-decoration: none;
-    color:#333333;
+    color: #333333;
     padding: 5px;
 }
 
