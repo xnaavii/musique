@@ -234,8 +234,9 @@ h3 {
 
 #about-icons i {
     font-size: 180%;
-    color: #333333;
-    border: 1px solid black;
+    color: #D5CCC7;
+    background-color: #A9A29C;
+    border: none;
     border-radius: 200px;
     padding: 20px;
     margin: 10px;
@@ -277,10 +278,11 @@ form {
 /* Register field  */
 
 .input-field {
-    background-color: transparent;
+    background-color: #A9A29C;
+    opacity: 0.4;
     margin: 5px;
     padding: 5px;
-    border: 1px solid #333333;
+    border: 1px solid #D5CCC7;
     border-radius: 200px;
     display: block;
 }
@@ -298,11 +300,11 @@ form {
 
 /* Sign up, sign in button */
 .sign-button {
-    background-color: #D5CCC7;
+    background-color: #A9A29C;
     margin: 10px;
     color: #333333;
     padding: 5px;
-    border: 2px solid #333333;
+    border: 2px solid #D5CCC7;
     border-radius: 200px;
     cursor: pointer;
 }
