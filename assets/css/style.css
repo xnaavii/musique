@@ -44,6 +44,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 #menu {
     list-style-type: none;
     letter-spacing: 4px;
@@ -114,7 +118,8 @@ section {
 }
 
 .container h1,
-h2 {
+h2,
+h3 {
     padding: 20px;
 }
 
@@ -148,7 +153,27 @@ h2 {
     transition-duration: 0.5s;
 }
 
-/* Explore Musique */
+/* Trending community */
+
+.trending {
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    color: #28262B;
+    border: 2px solid #D5CCC7;
+    border-radius: 200px;
+    background-color: #A9A29C;
+}
+
+.trending:hover {
+    background-color: #333333;
+    color: #D5CCC7;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    border: 2px solid #333333;
+}
+
+/* More button */
 
 .join-button {
     margin-top: 20px;
