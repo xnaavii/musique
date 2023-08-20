@@ -219,6 +219,11 @@ h3 {
     color: #333333;
 }
 
+#social-media i:hover {
+    color: #D5CCC7;
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+}
 /* About us Page */
 
 /* Icons with text and clickable circles for about us page*/
