@@ -1,5 +1,4 @@
 /* Google fonts import */
-
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Raleway:wght@200&display=swap');
 
 /* Asterisk style selector */
@@ -201,6 +200,7 @@ h3 {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
+    text-decoration: none;
 }
 
 .join-button:hover {
@@ -435,6 +435,7 @@ form {
         border-bottom: 1px solid #333333;
     }
 
-    /* Youtube Player */
+    
+    
 
 }
