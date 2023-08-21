@@ -63,6 +63,12 @@ h2 {
     border-bottom: 1px solid #333333;
 }
 
+/* Slogan */
+
+.slogan {
+    font-style: italic;
+}
+
 /* Navigation bar styling with dropdown */
 
 nav {
