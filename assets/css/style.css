@@ -54,6 +54,7 @@ h2 {
     list-style-type: none;
     letter-spacing: 4px;
     font-size: 110%;
+    text-align: center;
 }
 
 #menu>li {
@@ -73,8 +74,8 @@ h2 {
 
 .slogan {
     font-style: italic;
-    color: rgba(255, 255, 255, 0.8);
-
+    color: #D5CCC7;
+    padding: 0.5rem;
 }
 
 /* Navigation bar styling with dropdown */
@@ -109,7 +110,7 @@ section {
     background-color: #D5CCC7;
     /* Push footer down */
     flex: 1 0 auto;
-    margin-top: 127.5px;
+    margin-top: 143.5px;
 }
 
 /* Youtube embedded link on the home page */
@@ -352,9 +353,8 @@ form {
 
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
+     
     /* Header */
-
-
 
     nav {
         display: block;
@@ -368,10 +368,9 @@ form {
     }
 
     #menu>li {
-        padding-left: 0.5rem;
-        margin: 0.3rem;
-        padding: 0.3rem;
-        font-size: 77%;
+        margin: 0.5rem;
+        padding: 0.5rem;
+        font-size: 100%;
     }
 
     .nav-toggle-label {
@@ -384,11 +383,18 @@ form {
         margin-left: 0.5rem;
     }
 
+    /* Slogan Effect */
+
+    .slogan:hover {
+        color: rgba(255, 255, 255, 0.8);
+        transition-duration: 1s;
+    }
+    
     /* Section content */
 
     section {
         /* Push section down so that it's not under header */
-        margin-top: 160.5px;
+        margin-top: 194.5px;
     }
 
     .youtube-video {
