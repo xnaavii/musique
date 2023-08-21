@@ -28,9 +28,10 @@ header {
     width: 100%;
     z-index: 99;
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-flow: wrap column;
+    align-content: center;
 }
 
 header a {
@@ -65,8 +66,15 @@ h2 {
 
 /* Slogan */
 
+.logo-slogan {
+    display: flex;
+    flex-direction: column;
+}
+
 .slogan {
     font-style: italic;
+    color: rgba(255, 255, 255, 0.8);
+
 }
 
 /* Navigation bar styling with dropdown */
@@ -101,7 +109,7 @@ section {
     background-color: #D5CCC7;
     /* Push footer down */
     flex: 1 0 auto;
-    margin-top: 90.5px;
+    margin-top: 127.5px;
 }
 
 /* Youtube embedded link on the home page */
@@ -341,6 +349,7 @@ form {
     text-decoration: underline;
 }
 
+
 /* Media query for tablets and larger devices (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -379,7 +388,7 @@ form {
 
     section {
         /* Push section down so that it's not under header */
-        margin-top: 107px;
+        margin-top: 160.5px;
     }
 
     .youtube-video {
