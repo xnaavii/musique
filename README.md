@@ -140,28 +140,17 @@ This is an music website where user can connect and join communities based on wh
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="assets/images/html-validation.png"></h3>
+    <h3 align="center"><img src="assets/images/html-validator1.png"></h3>
+    <h3 align="center"><img src="assets/images/html-validator2.png"></h3>
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="assets/images/css-validation.png"></h3>
+    <h3 align="center"><img src="assets/images/jigsaw-css-validatior.png"></h3>
 
 ### Accessibility Test
-To test the accessibility of the website [WAVE](https://wave.webaim.org/report#/https://stjepanmesaros.github.io/portfolio-project-one-anxiety/) was used.
 
-- Wave Results
-
-    <h3 align="center"><img src="assets/images/accessibility-report.png"></h3>
 
 ### Performance Test
-To test the performance of the website, Lighthouse testing for mobile and desktop was performed.
 
-- Desktop Results
-
-    <h3 align="center"><img src="assets/images/lighthouse-desktop.png"></h3>
-
-- Mobile Results
-
-    <h3 align="center"><img src="assets/images/lighthouse-mobile.png"></h3>
 
 ### Feature Testing
 
