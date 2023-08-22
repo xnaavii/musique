@@ -94,8 +94,8 @@ This is an music website where user can connect and join communities based on wh
 
 * #### Navbar
 
-       <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-  * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+    <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
+  *Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
        <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
        <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
   * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
@@ -103,7 +103,7 @@ This is an music website where user can connect and join communities based on wh
 * #### Footer
 
     <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
-    - The footer offers an array of social media links which when selected, takes user to a desired site.
+    * The footer offers an array of social media links which when selected, takes user to a desired site.
 
 * ### Home page
 
