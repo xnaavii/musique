@@ -73,41 +73,36 @@ This is an music website where user can connect and join communities based on wh
     -   The fonts used are 'Libre Baskerville' for headings and 'Raleway' for text; 'sans-serif' as a fallback font.
 
 -   ### Imagery
-    -   Images were chosen in regards to the topic of the website; meaning that they were chosen to be minimalistic, related to page content.   
+    -   Images were chosen in regards to the topic of the website; meaning that they were chosen to be minimalistic, related to the page content.   
 
 -   ### Wireframes
     I created wireframes using the wireframe [Balsamiq](https://balsamiq.com/wireframes/desktop/#) website.
+    Final product looks different than the initial wireframe concept for Musique.
 
-    The website has 4 pages, namely Home page, About Us page, Register and Sign in page. The website is also linked to a registration page, which takes user to registration form or if already a member, there is option to be taken to a sign in page.
-
-    Here are the wireframes for each page:
-    -   Home Page
-        <h3 align="center"><img src="assets/images/"></h3>
-    
-    -   About Us
-        <h3 align="center"><img src="assets/images/"></h3>
-    
-    -   Register Page
-        <h3 align="center"><img src="assets/images/"></h3>
-    
-    -   Sign in Page
-        <h3 align="center"><img src="assets/images/"></h3>
+    Page | Desktop Version | Mobile Version
+    --- | --- | ---
+    Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-desktop.png) | ![Mobile index wireframe image](assets/readme-files/wireframe-mobile.png)
 
 ## Features <h5>[Back To top](#contents)</h5>
 
 
 -   ### All Pages
     -   #### Navbar
-        -   The Navbar offers up four links to help the user navigate through the site.
-        -   The Navbar contains slogan under the logo.
+       <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
+       -   The Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+       <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
+       <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
+        -   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+
     -   #### Footer
+        <h3 align="center"><img src="assets/readme-files/footer.png"></h3> 
         -   The footer offers an array of social media links which when selected, takes user to a desired site.
 
 -   ### Home page
-*Home Page Upper Section* <h3 align="center"><img src="assets/readme-files/home-upper-section.png"></h3>
+         <h3 align="center"><img src="assets/readme-files/home-upper-section.png"></h3>
     -Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
-*Home Page Lower Section* <h3 align="center"><img src="assets/readme-files/home-lower-section.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/home-lower-section.png"></h3>
     - 'Trending Communities' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
 
