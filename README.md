@@ -5,7 +5,7 @@
 ## Project Rationale
 This is an music website where user can connect and join communities based on what they listen to. Users can also attend events and explore new music.
 
-<h2 align="center"><img src="assets/images/am-i-responsive"></h2>
+<h2 align="center"><img src="assets/readme-files/images/am-i-responsive.png"></h2>
 
 ## CONTENTS
 
@@ -67,7 +67,7 @@ This is an music website where user can connect and join communities based on wh
 
 -   ### Colour Scheme
     -   The color pallete 
-        <h3 align="center"><img src="assets/images/color-scheme.png"></h3>
+        <h3 align="center"><img src="assets/readme-files/images/color-scheme.png"></h3>
 
 -   ### Typography
     -   The fonts used are 'Libre Baskerville' for headings and 'Raleway' for text; 'sans-serif' as a fallback font.
@@ -82,16 +82,16 @@ This is an music website where user can connect and join communities based on wh
 
     Here are the wireframes for each page:
     -   Home Page
-        <h3 align="center"><img src="assets/images/wireframe-1.png"></h3>
+        <h3 align="center"><img src="assets/images/"></h3>
     
     -   About Us
-        <h3 align="center"><img src="assets/images/wireframe-2.png"></h3>
+        <h3 align="center"><img src="assets/images/"></h3>
     
     -   Register Page
-        <h3 align="center"><img src="assets/images/wireframe-3.png"></h3>
+        <h3 align="center"><img src="assets/images/"></h3>
     
     -   Sign in Page
-        <h3 align="center"><img src="assets/images/wireframe-4.png"></h3>
+        <h3 align="center"><img src="assets/images/"></h3>
 
 ## Features <h5>[Back To top](#contents)</h5>
 
@@ -137,14 +137,14 @@ This is an music website where user can connect and join communities based on wh
 
 ### Code Validation
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="assets/images/html-validator1.png"></h3>
-    <h3 align="center"><img src="assets/images/html-validator2.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/images/html-validator1.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/images/html-validator2.png"></h3>
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="assets/images/jigsaw-css-validatior.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/images/jigsaw-css-validatior.png"></h3>
 
 ### Accessibility Test
 
