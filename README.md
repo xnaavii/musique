@@ -127,7 +127,7 @@ This is an music website where user can connect and join communities based on wh
 ### Frameworks, Libraries & Programs Used
 
 -   [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Agdasima and Bacasime Antique' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Libre Baskerville and Raleway' font into the style.css file which is used on all pages throughout the project.
 -   [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/)
@@ -139,14 +139,17 @@ This is an music website where user can connect and join communities based on wh
 
 ### Code Validation
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     <h3 align="center"><img src="/assets/readme-files/html-validator1.png"></h3>
     <h3 align="center"><img src="/assets/readme-files/html-validator2.png"></h3>
 
+Code was adjusted later to make sure that validator results were with clear.
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     <h3 align="center"><img src="/assets/readme-files/jigsaw-css-validator.png"></h3>
+
 
 ### Accessibility Test
 
