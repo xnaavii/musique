@@ -104,11 +104,11 @@ This is an music website where user can connect and join communities based on wh
         -   The footer offers an array of social media links which when selected, takes user to a desired site.
 
 -   ### Home page
-## Home Page Upper Section <h3 align="center"><img src="assets/readme-files/home-lower-section.png"></h3>
-    -   Home page has one section to it; it aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
+*Home Page Upper Section* <h3 align="center"><img src="assets/readme-files/home-upper-section.png"></h3>
+    - aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
-## Home Page Lower Section <h3 align="center"><img src="assets/readme-files/home-lower-section.png"></h3>
-    -   Below that is 'Trending Communities' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
+*Home Page Lower Section* <h3 align="center"><img src="assets/readme-files/home-lower-section.png"></h3>
+    - 'Trending Communities' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
 
 -   ### About Us page
