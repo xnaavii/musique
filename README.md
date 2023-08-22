@@ -105,9 +105,9 @@ This is an music website where user can connect and join communities based on wh
 
 -   ### Home page
     -   Home page has one section to it; it aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
-![Home Page Upper Section] (aseets/readme-files/home-page-upper.png)
+![Home Page Upper Section] (/assets/readme-files/home-page-upper.png)
     -   Below that is 'Trending Communities' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
-![Home Page Lower Section] (assets/readme-files/home-page-lower.png)
+![Home Page Lower Section] (/assets/readme-files/home-page-lower.png)
 
 -   ### About Us page
     -   About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
@@ -144,7 +144,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     <h3 align="center"><img src="/assets/readme-files/html-validator2.png"></h3>
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="/assets/readme-files/jigsaw-css-validatior.png"></h3>
+    <h3 align="center"><img src="/assets/readme-files/jigsaw-css-validator.png"></h3>
 
 ### Accessibility Test
 
