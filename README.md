@@ -3,6 +3,7 @@
 [View the live website here.](https://xnaavii.github.io/musique/)
 
 ## Project Rationale
+
 This is an music website where user can connect and join communities based on what they listen to. Users can also attend events and explore new music.
 
 <h2 align="center"><img src="/assets/readme-files/am-i-responsive.png"></h2>
@@ -30,11 +31,11 @@ This is an music website where user can connect and join communities based on wh
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 * [Testing](#testing)
-    * [Code Validation](#code-validation)
-    * [Accessibility Test](#accessibility-test)
-    * [Performance Test](#performance-test)
-    * [Feature Testing](#feature-testing)
-    * [Browser Support Testing](#browser-support-testing)
+  * [Code Validation](#code-validation)
+  * [Accessibility Test](#accessibility-test)
+  * [Performance Test](#performance-test)
+  * [Feature Testing](#feature-testing)
+  * [Browser Support Testing](#browser-support-testing)
 
 * [Bugs](#bugs)
 
@@ -51,33 +52,37 @@ This is an music website where user can connect and join communities based on wh
 
 ## User Experience (UX) <h5>[Back To top](#contents)</h5>
 
--   ### User stories
+* ### User stories
 
-    -   #### First Time Visitor Goals
+* #### First Time Visitor Goals
 
-        -   As a First Time Visitor, I want to easily understand the main purpose of the site and learn more how can I find a community.
-        -   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+  * As a First Time Visitor, I want to easily understand the main purpose of the site and learn more how can I find a community.
+  * As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-    -   #### Returning Visitor Goals
+* #### Returning Visitor Goals
 
-        -   As a Returning Visitor, I want to explore new music.
-        -   As a Returning Visitor, I want to find events and meet people with the same taste in music.
+  * As a Returning Visitor, I want to explore new music.
+  * As a Returning Visitor, I want to find events and meet people with the same taste in music.
 
 ## Design <h5>[Back To top](#contents)</h5>
 
--   ### Colour Scheme
-    -   The color pallete 
+* ### Colour Scheme
+
+  * The color pallete
         <h3 align="center"><img src="/assets/readme-files/color-scheme.png"></h3>
 
--   ### Typography
-    -   The fonts used are 'Libre Baskerville' for headings and 'Raleway' for text; 'sans-serif' as a fallback font.
+* ### Typography
 
--   ### Imagery
-    -   Images were chosen in regards to the topic of the website; meaning that they were chosen to be minimalistic, related to the page content.   
+  * The fonts used are 'Libre Baskerville' for headings and 'Raleway' for text; 'sans-serif' as a fallback font.
 
--   ### Wireframes
+* ### Imagery
+
+  * Images were chosen in regards to the topic of the website; meaning that they were chosen to be minimalistic, related to the page content.
+
+* ### Wireframes
+
     I created wireframes using the wireframe [Balsamiq](https://balsamiq.com/wireframes/desktop/#) website.
-    Final product looks different than the initial wireframe concept for Musique.
+    Final product looks different than the initial wireframe.
 
     Page | Desktop Version | Mobile Version
     --- | --- | ---
@@ -85,50 +90,54 @@ This is an music website where user can connect and join communities based on wh
 
 ## Features <h5>[Back To top](#contents)</h5>
 
+* ### All Pages
 
--   ### All Pages
-    -   #### Navbar
+* #### Navbar
+
        <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-        * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+  * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
        <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
        <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
-        * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+  * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
-    -   #### Footer
-        <h3 align="center"><img src="assets/readme-files/footer.png"></h3> 
-        -   The footer offers an array of social media links which when selected, takes user to a desired site.
+* #### Footer
 
--   ### Home page
-         <h3 align="center"><img src="assets/readme-files/home-page-up.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
+    - The footer offers an array of social media links which when selected, takes user to a desired site.
+
+* ### Home page
+
+    <h3 align="center"><img src="assets/readme-files/home-page-up.png"></h3>
     * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
-         <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
+     <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
     * 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
+* ### About Us page
 
--   ### About Us page
-    -   About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
+  * About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
 
--   ### Register page
-    -   Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
+* ### Register page
+
+  * Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
 ### Languages Used
 
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Libre Baskerville and Raleway' font into the style.css file which is used on all pages throughout the project.
--   [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
--   [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
--   [Balsamiq](https://balsamiq.com/wireframes/desktop/#)
-    - Balsamiq was used to create the [wireframes](#wireframes) during the design process.
+* [Google Fonts:](https://fonts.google.com/)
+  * Google fonts were used to import the 'Libre Baskerville and Raleway' font into the style.css file which is used on all pages throughout the project.
+* [Git](https://git-scm.com/)
+  * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [GitHub:](https://github.com/)
+  * GitHub is used to store the projects code after being pushed from Git.
+* [Balsamiq](https://balsamiq.com/wireframes/desktop/#)
+  * Balsamiq was used to create the [wireframes](#wireframes) during the design process.
 
 ## Testing  <h5>[Back To top](#contents)</h5>
 
@@ -136,36 +145,28 @@ This is an music website where user can connect and join communities based on wh
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     <h3 align="center"><img src="/assets/readme-files/html-validator1.png"></h3>
     <h3 align="center"><img src="/assets/readme-files/html-validator2.png"></h3>
 
 Code was adjusted later to make sure that validator results were with clear.
 
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     <h3 align="center"><img src="/assets/readme-files/jigsaw-css-validator.png"></h3>
-
 
 ### Accessibility Test
 
-
 ### Performance Test
-
 
 ### Feature Testing
 
-
-
 ### Browser Support Testing
-
 
 ## Bugs <h5>[Back To top](#contents)</h5>
 
 ### Known Bugs
 
-
 ### Fixed Bugs
-
 
 ## Deployment <h5>[Back To top](#contents)</h5>
 
@@ -182,17 +183,14 @@ The project was deployed to GitHub Pages using the following steps:
 
 ## SEO <h5>[Back To top](#contents)</h5>
 
-
 ## Credits <h5>[Back To top](#contents)</h5>
 
 ### Code
 
--   All code came from the developer.
+* All code came from the developer.
 
 ### Content
-
 
 ### Media
 
 ### Acknowledgements
-
