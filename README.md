@@ -5,7 +5,7 @@
 ## Project Rationale
 This is an music website where user can connect and join communities based on what they listen to. Users can also attend events and explore new music.
 
-<h2 align="center"><img src="assets/readme-files/images/am-i-responsive.png"></h2>
+<h2 align="center"><img src="/assets/readme-files/am-i-responsive.png"></h2>
 
 ## CONTENTS
 
