@@ -109,21 +109,20 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * The footer offers an array of social media links which when selected, takes user to the desired site.
   * When hovered, icons are expected to scale and change color.
 
-<h3 align="center"><img src="assets/readme-files/footer.png"></h3>
-<h3 align="center"><img src="assets/readme-files/footer-interaction.gif"></h3>
+<p align="center"><img src="assets/readme-files/footer.png"></p>
+<p align="center"><img src="assets/readme-files/footer-interaction.gif"></p>
 
 * ### Home page
 
   * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related. Embedded video is not automatically played and allows user to play if desired.
-  * Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there (opens in a new tab).
+  * Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there   (opens in a new tab).
   * Icons are expected to scale and have their opacity reduced when hovered over.
-
 <p align="center"><img src="assets/readme-files/home-page-up.png"></p>
 <p align="center"><img src="assets/readme-files/home-page-hover.gif"></p>
 
-* 'Trending Community' part of the section with the display of top three trending artist communities.
-* Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
-* 'More' button takes user to registration page and it contains hover effect as mentioned above.
+  * 'Trending Community' part of the section with the display of top three trending artist communities.
+  * Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
+  * 'More' button takes user to registration page and it contains hover effect as mentioned above.
 
 <p align="center"><img src="assets/readme-files/home-page-down.png"></p>
 <p align="center"><img src="assets/readme-files/trending-hover.gif"></p>
@@ -146,8 +145,7 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Each field is required to be filled and when active it has a border around.
   * Registed button is expected to change color when hovered over.
 
-<p align="center"><img src="assets/readme-files/register-page.png"></p>
-<p align="center"><img src="assets/readme-files/register-us-page.gif"></p>
+<p align="center"><img src="assets/readme-files/register-us-hover.gif"></p>
 
 * ### Sign in
 
@@ -155,7 +153,6 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Each field is required to be filled and when active it has a border around.
   * Sign in button is expected to change color when hovered over.
 
-<p align="center"><img src="assets/readme-files/sign-in-page.png"></p>
 <p align="center"><img src="assets/readme-files/sign-in-hover.gif"></p>
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
@@ -183,12 +180,20 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 * [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-  * W3C Markup Validator returned series of info, header warning and a button error which was all resolved.
+  * W3C Markup Validator returned series of info, header warning and a button error which were all later resolved.
 ![Markup Validator](assets/readme-files/html-validator1.png)
 ![Markup Validator](assets/readme-files/html-validator2.png)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+![Jigsaw CSS Validator](assets/readme-files/jigsaw-css-validator.png)
 
 ### Accessibility Test
+
+* Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throghout the website are easy to read and accessible.
+* Lighthouse reports
+  * Desktop Results
+![Lighthouse Desktop](assets/readme-files/lighthouse-desktop.png)
+  * Mobile Results
+![Lighthouse Mobile](assets/readme-files/lighthouse-mobile.png)
 
 ### Performance Test
 
