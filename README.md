@@ -293,6 +293,7 @@ The project was deployed to GitHub Pages using the following steps:
 ### Code
 
 * [Stack Overflow](https://stackoverflow.com/), [CSS-Tricks](https://css-tricks.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
+* Header, Navigation bar and Footer were made with the help of Love Running project.
 
 ### Content
 
