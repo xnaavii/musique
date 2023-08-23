@@ -293,7 +293,6 @@ The project was deployed to GitHub Pages using the following steps:
 ### Code
 
 * [Stack Overflow](https://stackoverflow.com/), [CSS-Tricks](https://css-tricks.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
-* [Youtube](https://www.youtube.com/watch?v=oLgtucwjVII&t=151s) guidance on how to create the navbar.
 
 ### Content
 
