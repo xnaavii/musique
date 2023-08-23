@@ -93,7 +93,6 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 ### All Pages
 
 * ### Navbar
-
   * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
 
 <p align="center"><img src="assets/readme-files/nav-bar-desktop.png"></p>
@@ -136,7 +135,7 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * When clicked on 'Join a community' user is taken to registration page..
   * When clicked on 'Join events' user is taken to ticketmaster site
 
-<p align="center"><img src="assets/readme-files/home-page-up.png"></p>
+<p align="center"><img src="assets/readme-files/about-us-page.png"></p>
 
 <p align="center"><img src="assets/readme-files/about-us-hover.gif"></p>
 
