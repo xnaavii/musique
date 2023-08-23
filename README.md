@@ -95,11 +95,11 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### Navbar
 
   * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+
 <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
 <h3 align="center"><img src="assets/readme-files/navbar-hover.gif"></h3>
 
-
-  * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+* Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
 <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
 <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>
@@ -108,45 +108,54 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
   * The footer offers an array of social media links which when selected, takes user to the desired site.
   * When hovered, icons are expected to scale and change color.
-<h3><img src="assets/readme-files/footer.png"></h3>
-assets/readme-files/footer-interaction.gif
+
+<h3 align="center"><img src="assets/readme-files/footer.png"></h3>
+<h3 align="center"><img src="assets/readme-files/footer-interaction.gif"></h3>
 
 * ### Home page
 
   * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related. Embedded video is not automatically played and allows user to play if desired.
   * Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there (opens in a new tab).
   * Icons are expected to scale and have their opacity reduced when hovered over.
-![Home Page Upper](assets/readme-files/home-page-up.png)
 
-  * 'Trending Community' part of the section with the display of top three trending artist communities.
-  * Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
-  * 'More' button takes user to registration page and it contains hover effect as mentioned above.
-![Home Page Down](assets/readme-files/home-page-down.png)
+<h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
+<h3 align="center"><img src="(assets/readme-files/home-page-hover.gif)"></h3>
+
+* 'Trending Community' part of the section with the display of top three trending artist communities.
+* Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
+* 'More' button takes user to registration page and it contains hover effect as mentioned above.
+
+<h3 align="center"><img src="(assets/readme-files/home-page-down.png)"></h3>
+<h3 align="center"><img src="(assets/readme-files/trending-hover.gif)"></h3>
 
 * ### About Us page
 
   * About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events).
+  * Topic buttons are expected to have hover effect and change color.
   * When clicked on 'Explore Music', user is taken to home page.
   * When clicked on 'Join a community' user is taken to registration page..
   * When clicked on 'Join events' user is taken to ticketmaster site
 
-![About Us Page](assets/readme-files/about-us-page.png)
+<h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
+<h3 align="center"><img src="(assets/readme-files/about-us-hover.gif)"></h3>
 
 * ### Register page
 
   * Register page contains a register form where user can register and 'already a member' link below where user can be transferred to sign in page.
-  * Each field is required to be filled and when active it has a border around. 
+  * Each field is required to be filled and when active it has a border around.
   * Registed button is expected to change color when hovered over.
-![Register Page](assets/readme-files/register-page.png)
-![Register Page Hover](assets/readme-files/register-us-hover.gif)
+
+<h3 align="center"><img src="(assets/readme-files/register-page.png)"></h3>
+<h3 align="center"><img src="(assets/readme-files/register-us-page.gif)"></h3>
 
 * ### Sign in
 
   * Sign in page contains a form with a sign in button and 'Join Musique' link below if new to the plaform.
   * Each field is required to be filled and when active it has a border around.
   * Sign in button is expected to change color when hovered over.
-![Sign in Page](assets/readme-files/sign-in-page.png)
-![Sign in Hover](assets/readme-files/sign-in-hover.gif)
+
+<h3 align="center"><img src="(assets/readme-files/sign-in-page.png)"></h3>
+<h3 align="center"><img src="(assets/readme-files/sign-in-hover.gif)"></h3>
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
