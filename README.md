@@ -69,7 +69,7 @@ This is an music website where user can connect and join communities based on wh
 * ### Colour Scheme
 
   * The color pallete
-        <h3 align="center"><img src="/assets/readme-files/color-scheme.png"></h3>
+    <h3 align="center"><img src="/assets/readme-files/color-scheme.png"></h3>
 
 * ### Typography
 
@@ -84,9 +84,9 @@ This is an music website where user can connect and join communities based on wh
     I created wireframes using the wireframe [Balsamiq](https://balsamiq.com/wireframes/desktop/#) website.
     Final product looks different than the initial wireframe.
 
-    Page | Desktop Version | Mobile Version
-    --- | --- | ---
-    Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-desktop.png) | ![Mobile index wireframe image](assets/readme-files/wireframe-mobile.png)
+Page | Desktop Version | Mobile Version
+ --- | --- | ---
+Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-desktop.png) | ![Mobile index wireframe image](assets/readme-files/wireframe-mobile.png)
 
 ## Features <h5>[Back To top](#contents)</h5>
 
@@ -94,32 +94,32 @@ This is an music website where user can connect and join communities based on wh
 
 * #### Navbar
 
-    <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-  *Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
-       <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
-       <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
-  * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+   <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
+*   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+    <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
+    <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
+*   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
 * #### Footer
 
     <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
-    * The footer offers an array of social media links which when selected, takes user to a desired site.
+* The footer offers an array of social media links which when selected, takes user to a desired site.
 
 * ### Home page
 
     <h3 align="center"><img src="assets/readme-files/home-page-up.png"></h3>
-    * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
+* Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
      <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
-    * 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
+* 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
 * ### About Us page
 
-  * About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
+* About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
 
 * ### Register page
 
-  * Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
+* Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
