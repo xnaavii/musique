@@ -41,9 +41,8 @@ This is an music website where user can connect and join communities based on wh
 * [Bugs](#bugs)
 
 * [Deployment](#deployment)
+  * [Finished Product]()
   * [GitHub Pages](#github-pages)
-
-* [SEO](#seo)
 
 * [Credits](#credits)
   * [Code](#code)
@@ -274,6 +273,15 @@ iPhone 14 Pro Max | No appearance, responsiveness nor functionality issues. | Pa
 
 ### Fixed Bugs
 
+## Finished Product
+
+Page | Desktop | Mobile
+--- | --- | ---
+Home Page | ![Home Page Desktop](assets/readme-files/homepage-desktop.png) | ![Home Page Mobile](assets/readme-files/homepage-mobile.png)
+About Us | ![About Us Desktop](assets/readme-files/aboutus-desktop.png) | ![About Us Mobile](assets/readme-files/aboutus-mobile.png)
+Register | ![Register Desktop](assets/readme-files/register-desktop.png) | ![Register Mobile](assets/readme-files/register-mobile.png)
+Sign In | ![Sign In Desktop](assets/readme-files/signin-desktop.png) | ![Sign In Mobile](assets/readme-files/signin-mobile.png)
+
 ## Deployment <h5>[Back To top](#contents)</h5>
 
 ### GitHub Pages
@@ -287,16 +295,23 @@ The project was deployed to GitHub Pages using the following steps:
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site in the "GitHub Pages" section.
 
-## SEO <h5>[Back To top](#contents)</h5>
-
 ## Credits <h5>[Back To top](#contents)</h5>
 
 ### Code
 
-* All code came from the developer.
+* [Stack Overflow](https://stackoverflow.com/), [CSS-Tricks](https://css-tricks.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
+* [Youtube](https://www.youtube.com/watch?v=oLgtucwjVII&t=151s) guidance on how to create the navbar.
 
 ### Content
 
+* Content was created by the developer.
+
 ### Media
 
+* Images were taken from [Pixabay](https://pixabay.com/).
+
 ### Acknowledgements
+
+* My mentor, Marcel, for his invaluable feedback and guidance.
+
+* My friends for their impeccable vision and testing.
