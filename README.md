@@ -32,8 +32,7 @@ This is an music website where user can connect and join communities based on wh
 
 * [Testing](#testing)
   * [Code Validation](#code-validation)
-  * [Accessibility Test](#accessibility-test)
-  * [Performance Test](#performance-test)
+  * [Accessibility and Performance Test](#accessibility-performance-test)
   * [Feature Testing](#feature-testing)
   * [Browser Support Testing](#browser-support-testing)
 
@@ -114,12 +113,15 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
 * ### Home page
 
+* Upper Section
   * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related. Embedded video is not automatically played and allows user to play if desired.
   * Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there   (opens in a new tab).
   * Icons are expected to scale and have their opacity reduced when hovered over.
+
 <p align="center"><img src="assets/readme-files/home-page-up.png"></p>
 <p align="center"><img src="assets/readme-files/home-page-hover.gif"></p>
 
+* Lower Section
   * 'Trending Community' part of the section with the display of top three trending artist communities.
   * Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
   * 'More' button takes user to registration page and it contains hover effect as mentioned above.
@@ -186,7 +188,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 ![Jigsaw CSS Validator](assets/readme-files/jigsaw-css-validator.png)
 
-### Accessibility Test
+### Accessibility and Performance Test
 
 * Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throghout the website are easy to read and accessible.
 * Lighthouse reports
@@ -194,8 +196,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![Lighthouse Desktop](assets/readme-files/lighthouse-desktop.png)
   * Mobile Results
 ![Lighthouse Mobile](assets/readme-files/lighthouse-mobile.png)
-
-### Performance Test
 
 ### Feature Testing
 
