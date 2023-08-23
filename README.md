@@ -93,12 +93,11 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### All Pages
 
 * #### Navbar
-
-   <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-*   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+    <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
+    * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
     <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
     <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
-*   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+    * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
 * #### Footer
 
@@ -108,10 +107,10 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### Home page
 
     <h3 align="center"><img src="assets/readme-files/home-page-up.png"></h3>
-* Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
+    - Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
      <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
-    * 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
+    - 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
 * ### About Us page
 
