@@ -89,17 +89,15 @@ Page | Desktop Version | Mobile Version
 Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-desktop.png) | ![Mobile index wireframe image](assets/readme-files/wireframe-mobile.png)
 
 ## Features <h5>[Back To top](#contents)</h5>
-
 * ### All Pages
 
-* #### Navbar
+* **Navbar**
 
-* Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
-        <h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-* Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
-    <h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
-    <h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>  
-
+*   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+![Desktop Navbar](assets/readme-files/nav-bar-desktop.png)
+*   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+![Mobile Navbar](assets/readme-files/nav-bar-mobile.png)
+![Mobile Navbar Toggle](assets/readme-files/nav-bar-mobile-toggle.png)
 * #### Footer
 
     <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
