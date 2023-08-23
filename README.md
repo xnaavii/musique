@@ -82,7 +82,6 @@ This is an music website where user can connect and join communities based on wh
 * ### Wireframes
 
     I created wireframes using the wireframe [Balsamiq](https://balsamiq.com/wireframes/desktop/#) website.
-    Final product looks different than the initial wireframe.
 
 Page | Desktop Version | Mobile Version
  --- | --- | ---
@@ -167,7 +166,7 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 ### Frameworks, Libraries & Programs Used
 
 * [Google Fonts:](https://fonts.google.com/)
-  * Google fonts were used to import the 'Libre Baskerville and Raleway' font into the style.css file which is used on all pages throughout the project.
+  * Google fonts were used to import the 'Libre Baskerville' and 'Raleway' font into the style.css file which is used on all pages throughout the project.
 * [Git](https://git-scm.com/)
   * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/)
@@ -267,13 +266,7 @@ iPhone 14 Pro Max | No appearance, responsiveness nor functionality issues. | Pa
 
   * Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
-## Bugs <h5>[Back To top](#contents)</h5>
-
-### Known Bugs
-
-### Fixed Bugs
-
-## Finished Product
+## Finished Product <h5>[Back To top](#contents)</h5>
 
 Page | Desktop | Mobile
 --- | --- | ---
