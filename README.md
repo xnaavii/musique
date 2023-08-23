@@ -96,21 +96,21 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
   * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
 
-<h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
-<h3 align="center"><img src="assets/readme-files/navbar-hover.gif"></h3>
+<h4 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h4>
+<h4 align="center"><img src="assets/readme-files/navbar-hover.gif"></h4>
 
 * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
-<h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
-<h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>
+<h4 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h4>
+<h4 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h4>
 
 * ### Footer
 
   * The footer offers an array of social media links which when selected, takes user to the desired site.
   * When hovered, icons are expected to scale and change color.
 
-<h3 align="center"><img src="assets/readme-files/footer.png"></h3>
-<h3 align="center"><img src="assets/readme-files/footer-interaction.gif"></h3>
+  <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
+  <h3 align="center"><img src="assets/readme-files/footer-interaction.gif"></h3>
 
 * ### Home page
 
@@ -118,15 +118,15 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there (opens in a new tab).
   * Icons are expected to scale and have their opacity reduced when hovered over.
 
-<h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
-<h3 align="center"><img src="(assets/readme-files/home-page-hover.gif)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/home-page-hover.gif)"></h3>
 
-* 'Trending Community' part of the section with the display of top three trending artist communities.
-* Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
-* 'More' button takes user to registration page and it contains hover effect as mentioned above.
+  * 'Trending Community' part of the section with the display of top three trending artist communities.
+  * Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
+  * 'More' button takes user to registration page and it contains hover effect as mentioned above.
 
-<h3 align="center"><img src="(assets/readme-files/home-page-down.png)"></h3>
-<h3 align="center"><img src="(assets/readme-files/trending-hover.gif)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/home-page-down.png)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/trending-hover.gif)"></h3>
 
 * ### About Us page
 
@@ -136,8 +136,8 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * When clicked on 'Join a community' user is taken to registration page..
   * When clicked on 'Join events' user is taken to ticketmaster site
 
-<h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
-<h3 align="center"><img src="(assets/readme-files/about-us-hover.gif)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/home-page-up.png)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/about-us-hover.gif)"></h3>
 
 * ### Register page
 
@@ -145,8 +145,8 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Each field is required to be filled and when active it has a border around.
   * Registed button is expected to change color when hovered over.
 
-<h3 align="center"><img src="(assets/readme-files/register-page.png)"></h3>
-<h3 align="center"><img src="(assets/readme-files/register-us-page.gif)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/register-page.png)"></h3>
+  <h3 align="center"><img src="(assets/readme-files/register-us-page.gif)"></h3>
 
 * ### Sign in
 
@@ -154,8 +154,8 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Each field is required to be filled and when active it has a border around.
   * Sign in button is expected to change color when hovered over.
 
-<h3 align="center"><img src="(assets/readme-files/sign-in-page.png)"></h3>
-<h3 align="center"><img src="(assets/readme-files/sign-in-hover.gif)"></h3>
+  <h3 align="center"><img src=(assets/readme-files/sign-in-page.png)></h3>
+  <h3 align="center"><img src="(assets/readme-files/sign-in-hover.gif)"></h3>
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
