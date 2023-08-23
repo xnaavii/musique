@@ -103,7 +103,6 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### Footer
 
 ![Footer](assets/readme-files/footer.png)
-
   * The footer offers an array of social media links which when selected, takes user to a desired site.
 
 * ### Home page
