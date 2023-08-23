@@ -69,7 +69,7 @@ This is an music website where user can connect and join communities based on wh
 * ### Colour Scheme
 
   * The color pallete
-    <h3 align="center"><img src="/assets/readme-files/color-scheme.png"></h3>
+![Color Scheme](assets/readme-files/color-scheme.png)
 
 * ### Typography
 
@@ -89,31 +89,43 @@ Page | Desktop Version | Mobile Version
 Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-desktop.png) | ![Mobile index wireframe image](assets/readme-files/wireframe-mobile.png)
 
 ## Features <h5>[Back To top](#contents)</h5>
-* ### All Pages
+
+### All Pages
 
 * ### Navbar
 
-  *   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+  * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
 ![Desktop Navbar](assets/readme-files/nav-bar-desktop.png)
-  *   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+  * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 ![Mobile Navbar](assets/readme-files/nav-bar-mobile.png)
 ![Mobile Navbar Toggle](assets/readme-files/nav-bar-mobile-toggle.png)
-* #### Footer
 
-    <h3 align="center"><img src="assets/readme-files/footer.png"></h3>
+* ### Footer
+
+![Footer](assets/readme-files/footer.png)
+
 * The footer offers an array of social media links which when selected, takes user to a desired site.
 
 * ### Home page
 
-    <h3 align="center"><img src="assets/readme-files/home-page-up.png"></h3>
-    - Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
+![Home Page Upper](assets/readme-files/home-page-up.png)
 
-     <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
-    - 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
+* Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related. Embedded video is not automatically played and allows user to play if desired. Embedded video is not automatically played and allows user to play if desired.
+* Streaming icons under the video allow user to select the preferred music platform and when clicked, user is taken there (opens in a new tab).
+* Icons are expected to scale and have their opacity reduced when hovered over.
+
+![Home Page Down](assets/readme-files/home-page-down.png)
+* 'Trending Community' part of the section with the display of top three trending artist communities.
+* Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
+* 'More' button takes user to registration page and it contains hover effect as mentioned above.
 
 * ### About Us page
 
-* About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events)
+![About Us Page](assets/readme-files/about-us-page.png)
+* About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events).
+* When clicked on 'Explore Music', user is taken to home page.
+* When clicked on 'Join a community' user is taken to registration page..
+* When clicked on 'Join events' user is taken to ticketmaster site
 
 * ### Register page
 
