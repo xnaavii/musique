@@ -92,10 +92,9 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### All Pages
 
 * **Navbar**
-
-*   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
+  *   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
 ![Desktop Navbar](assets/readme-files/nav-bar-desktop.png)
-*   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
+  *   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 ![Mobile Navbar](assets/readme-files/nav-bar-mobile.png)
 ![Mobile Navbar Toggle](assets/readme-files/nav-bar-mobile-toggle.png)
 * #### Footer
