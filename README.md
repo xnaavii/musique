@@ -132,8 +132,19 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
 * ### Register page
 
-  * Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
-![Register Page]()
+  * Register page contains a register form where user can register and 'already a member' link below where user can be transferred to sign in page.
+  * Each field is required to be filled and when active it has a border around. 
+  * Registed button is expected to change color when hovered over.
+![Register Page](assets/readme-files/register-page.png)
+![Register Page Hover](assets/readme-files/register-us-hover.gif)
+
+* ### Sign in
+
+  * Sign in page contains a form with a sign in button and 'Join Musique' link below if new to the plaform.
+  * Each field is required to be filled and when active it has a border around.
+  * Sign in button is expected to change color when hovered over.
+![Sign in Page](assets/readme-files/sign-in-page.png)
+![Sign in Hover](assets/readme-files/sign-in-hover.gif)
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
