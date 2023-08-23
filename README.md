@@ -69,7 +69,7 @@ This is an music website where user can connect and join communities based on wh
 
 * ### Colour Scheme
 
-  * The color pallete
+  * The color palette
 ![Color Scheme](assets/readme-files/color-scheme.png)
 
 * ### Typography
@@ -128,16 +128,15 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
   * Hover effect where buttons change their appearance to darker color is expected when user is hovering over them. When clicked, user is taken to desired community.
   * 'More' button takes user to registration page and it contains hover effect as mentioned above.
 
-<p align="center"><img src="assets/readme-files/home-page-down.png"></p>
 <p align="center"><img src="assets/readme-files/trending-hover.gif"></p>
 
 * ### About Us page
 
-  * About Us page offers brief description of what site stands for and below that three icons with each of them respresenting site goals (Explore Music, Join a Community, Find events).
+  * About Us page offers brief description of what site stands for and below that three icons with each of them representing site goals (Explore Music, Join a Community, Find events).
   * Topic buttons are expected to have hover effect and change color.
   * When clicked on 'Explore Music', user is taken to home page.
   * When clicked on 'Join a community' user is taken to registration page..
-  * When clicked on 'Join events' user is taken to ticketmaster site
+  * When clicked on 'Join events' user is taken to Ticketmaster site
 
 <p align="center"><img src="assets/readme-files/about-us-page.png"></p>
 
@@ -147,13 +146,13 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
   * Register page contains a register form where user can register and 'already a member' link below where user can be transferred to sign in page.
   * Each field is required to be filled and when active it has a border around.
-  * Registed button is expected to change color when hovered over.
+  * Register button is expected to change colour when hovered over.
 
 <p align="center"><img src="assets/readme-files/register-us-hover.gif"></p>
 
 * ### Sign in
 
-  * Sign in page contains a form with a sign in button and 'Join Musique' link below if new to the plaform.
+  * Sign in page contains a form with a sign in button and 'Join Musique' link below if new to the platform.
   * Each field is required to be filled and when active it has a border around.
   * Sign in button is expected to change color when hovered over.
 
@@ -214,11 +213,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     Feature | Outcome | Pass/Fail
     --- | --- | ---
-    YouTube Video | Plays when user interacts | Pass
+    YouTube Video | Plays when user interacts. | Pass
     Streaming Icons | Hover effect and open the specific streaming platform in a new tab. | Pass
     Trending Community List | Hover effect and open the specific community page in a new tab. | Pass
     'More' Link | Hover effect and take user to registration page. | Pass
-    Landscape Orientation Blocker | Show full screen section when device is turned to landscape orientation. | Pass
 
   * About Us Page
 
@@ -244,7 +242,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 | --- | --- | --- | --- |
 | Google Chrome | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
 |  |  |  |  |
-| Safari | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. ||
+| Safari | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
 |  |  |  |  |
 | Internet Explorer | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
 |  |  |  |  |
