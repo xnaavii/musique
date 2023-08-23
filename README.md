@@ -111,7 +111,7 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * Aims to display 'Artist of the week' with embedded YouTube video and below that streaming icons which are related.
 
      <h3 align="center"><img src="assets/readme-files/home-page-down.png"></h3>
-* 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
+    * 'Trending Community' part of the section with the display of top three trending artist communities and 'More' link which when pressed, takes user to 'Register' page.
 
 * ### About Us page
 
