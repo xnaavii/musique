@@ -23,7 +23,7 @@ This is an music website where user can connect and join communities based on wh
   * [General Features on Each Page](#all-pages)
   * [Home Page](#home-page)
   * [About Us Page](#about-us)
-  * [Register Page](#register)
+  * [Register Page](#register-page)
   * [Sign In](#sign-in)
 
 * [Technologies Used](#technologies-used)
@@ -35,6 +35,8 @@ This is an music website where user can connect and join communities based on wh
   * [Accessibility and Performance Test](#accessibility-performance-test)
   * [Feature Testing](#feature-testing)
   * [Browser Support Testing](#browser-support-testing)
+  * [Device compatibility](#device-compatibility)
+  * [Tools Testing](#tools-testing)
 
 * [Bugs](#bugs)
 
@@ -199,7 +201,74 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Feature Testing
 
+* Common Elements Testing
+
+  * General
+
+    Feature | Outcome | Pass/Fail
+    --- | --- | ---
+    Navigation Bar | Hover effect and links are working as expected. | Pass
+    Footer Social Links | Hover effect and open the specific website in a new tab. | Pass
+
+  * Home Page
+
+    Feature | Outcome | Pass/Fail
+    --- | --- | ---
+    YouTube Video | Plays when user interacts | Pass
+    Streaming Icons | Hover effect and open the specific streaming platform in a new tab. | Pass
+    Trending Community List | Hover effect and open the specific community page in a new tab. | Pass
+    'More' Link | Hover effect and take user to registration page. | Pass
+    Landscape Orientation Blocker | Show full screen section when device is turned to landscape orientation. | Pass
+
+  * About Us Page
+
+    Feature | Outcome | Pass/Fail
+    --- | --- | ---
+    Explore Music Link | Hover effect and links are working as expected. |  Pass
+    Join a Community Link |  Hover effect and links are working as expected. |  Pass
+    Find Events Link |  Hover effect and links are working as expected. | Pass
+
+  * Register/Sign In Page
+
+    Feature | Outcome | Pass/Fail
+    --- | --- | ---
+    Register From | Require all fields in the right format before submission. |  Pass
+    Sign In Field | Require all fields in the right format before submission. |  Pass
+    Sign In/Sign Up link | Hover effect and submit work as expected. | Pass
+    Already a member| Hover effect and takes user to sign in page. | Pass
+    Join Musique Link | Hover effect and takes user to registration page. | Pass
+
 ### Browser Support Testing
+
+| Device/Browser | Expected Performance | Testing Performed | Result |
+| --- | --- | --- | --- |
+| Google Chrome | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
+|  |  |  |  |
+| Safari | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. ||
+|  |  |  |  |
+| Internet Explorer | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
+|  |  |  |  |
+| Microsoft Edge | Full functionality of external and internal links as well as full functionality of the form element. | Tested all features, links, video and form. | Passed with full functionality. |
+|  |  |  |  |
+
+### Device compatibility
+
+Device | Outcome | Pass/Fail
+--- | --- | ---
+MacBook M2 Air 13.6' | No appearance, responsiveness nor functionality issues. | Pass
+HP Chromebook 14' | No appearance, responsiveness nor functionality issues. | Pass
+Samsung Galaxy S20 Ultra | No appearance, responsiveness nor functionality issues. | Pass
+iPad Air | No appearance, responsiveness nor functionality issues. | Pass
+iPad Mini | No appearance, responsiveness nor functionality issues. | Pass
+iPhone 12 Mini | No appearance, responsiveness nor functionality issues. | Pass
+iPhone 13 Mini | No appearance, responsiveness nor functionality issues. | Pass
+iPhone 14 Pro Max | No appearance, responsiveness nor functionality issues. | Pass
+
+### Tools Testing
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  * Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
 ## Bugs <h5>[Back To top](#contents)</h5>
 
