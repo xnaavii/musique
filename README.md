@@ -91,7 +91,8 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 ## Features <h5>[Back To top](#contents)</h5>
 * ### All Pages
 
-* **Navbar**
+* ### Navbar
+
   *   Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
 ![Desktop Navbar](assets/readme-files/nav-bar-desktop.png)
   *   Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
