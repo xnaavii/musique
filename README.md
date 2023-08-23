@@ -104,8 +104,10 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 
 * ### Footer
 
-  * The footer offers an array of social media links which when selected, takes user to a desired site.
+  * The footer offers an array of social media links which when selected, takes user to the desired site.
+  * When hovered, icons are expected to scale and change color.
 ![Footer](assets/readme-files/footer.png)
+![Footer Interaction](assets/readme-files/footer-interaction.gif)
 
 * ### Home page
 
@@ -131,6 +133,7 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### Register page
 
   * Register page features a form that a visitor can fill out and submit which would contact the site owner with the query.
+![Register Page]()
 
 ## Technologies Used <h5>[Back To top](#contents)</h5>
 
@@ -157,13 +160,10 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 * [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="/assets/readme-files/html-validator1.png"></h3>
-    <h3 align="center"><img src="/assets/readme-files/html-validator2.png"></h3>
-
-Code was adjusted later to make sure that validator results were with clear.
-
+  * W3C Markup Validator returned series of info, header warning and a button error which was all resolved.
+![Markup Validator](assets/readme-files/html-validator1.png)
+![Markup Validator](assets/readme-files/html-validator2.png)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    <h3 align="center"><img src="/assets/readme-files/jigsaw-css-validator.png"></h3>
 
 ### Accessibility Test
 
