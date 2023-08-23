@@ -95,19 +95,21 @@ Home Page | ![Desktop index wireframe image](assets/readme-files/wireframe-deskt
 * ### Navbar
 
   * Navbar offers up four links to help the user navigate through the site and it has underline when hovered over or while active.
-![Desktop Navbar](assets/readme-files/nav-bar-desktop.png)
+<h3 align="center"><img src="assets/readme-files/nav-bar-desktop.png"></h3>
+<h3 align="center"><img src="assets/readme-files/navbar-hover.gif"></h3>
+
 
   * Navbar is inside of a burger icon and when toggled it expands with the list of pages so that the user can navigate through the site.
 
-![Mobile Navbar](assets/readme-files/nav-bar-mobile.png)
-![Mobile Navbar Toggle](assets/readme-files/nav-bar-mobile-toggle.png)
+<h3 align="center"><img src="assets/readme-files/nav-bar-mobile.png"></h3>
+<h3 align="center"><img src="assets/readme-files/nav-bar-mobile-toggle.png"></h3>
 
 * ### Footer
 
   * The footer offers an array of social media links which when selected, takes user to the desired site.
   * When hovered, icons are expected to scale and change color.
-![Footer](assets/readme-files/footer.png)
-![Footer Interaction](assets/readme-files/footer-interaction.gif)
+<h3><img src="assets/readme-files/footer.png"></h3>
+assets/readme-files/footer-interaction.gif
 
 * ### Home page
 
